@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta
+            name="viewport"
+            content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0"
+        />
+        <meta name="theme-color" content="#000000" />
+        <title>Happy Learning</title>
+        <style>
+            .app-loader-v2 {
+                display: inline-block;
+                position: relative;
+                width: 80px;
+                height: 80px;
+            }
+            .app-loader-v2 div {
+                box-sizing: border-box;
+                display: block;
+                position: absolute;
+                width: 70px;
+                height: 70px;
+                margin: 5px;
+                border: 5px solid #1976d2;
+                border-radius: 50%;
+                animation: app-loader-v2 1.2s cubic-bezier(0.5, 0, 0.5, 1)
+                    infinite;
+                border-color: #1976d2 transparent transparent transparent;
+            }
+            .app-loader-v2 div:nth-child(1) {
+                animation-delay: -0.45s;
+            }
+            .app-loader-v2 div:nth-child(2) {
+                animation-delay: -0.3s;
+            }
+            .app-loader-v2 div:nth-child(3) {
+                animation-delay: -0.15s;
+            }
+            @keyframes app-loader-v2 {
+                0% {
+                    transform: rotate(0deg);
+                }
+                100% {
+                    transform: rotate(360deg);
+                }
+            }
+            .app-loader-v2-page-load {
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                min-height: 50vh;
+            }
+        </style>
+      <script type="module" crossorigin src="./assets/index-DNfNQvea.js"></script>
+      <link rel="stylesheet" crossorigin href="./assets/index-C_b53Ki2.css">
+    </head>
+    <body>
+        <noscript>You need to enable JavaScript to run this app.</noscript>
+        <div id="root">
+            <div class="app-loader-v2-page-load">
+                <div class="app-loader-v2">
+                    <div></div>
+                    <div></div>
+                    <div></div>
+                    <div></div>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>

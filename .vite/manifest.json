@@ -1,0 +1,70 @@
+{
+  "index.html": {
+    "file": "assets/index-DNfNQvea.js",
+    "name": "index",
+    "src": "index.html",
+    "isEntry": true,
+    "dynamicImports": [
+      "src/pages/NextLetters/QuestionsPage.js"
+    ],
+    "css": [
+      "assets/index-C_b53Ki2.css"
+    ],
+    "assets": [
+      "assets/logo-CMxrhpIG.png"
+    ]
+  },
+  "src/components/Header/logo.png": {
+    "file": "assets/logo-CMxrhpIG.png",
+    "src": "src/components/Header/logo.png"
+  },
+  "src/pages/NextLetters/QuestionsPage.js": {
+    "file": "assets/QuestionsPage-Br1jBnC3.js",
+    "name": "QuestionsPage",
+    "src": "src/pages/NextLetters/QuestionsPage.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html"
+    ],
+    "css": [
+      "assets/QuestionsPage-a3im2n4F.css"
+    ],
+    "assets": [
+      "assets/cat-DdfKrfmZ.jpg",
+      "assets/cake-CeLXGrHs.jpg",
+      "assets/elephant-Bz4ZRG0w.jpg",
+      "assets/leopard-Ceg1hnP6.jpg",
+      "assets/rat-DKfLa8P4.jpg",
+      "assets/audio-success-CYW8HOv7.mp3",
+      "assets/audio-error-BLlPlQhj.mp3"
+    ]
+  },
+  "src/pages/NextLetters/audio-error.mp3": {
+    "file": "assets/audio-error-BLlPlQhj.mp3",
+    "src": "src/pages/NextLetters/audio-error.mp3"
+  },
+  "src/pages/NextLetters/audio-success.mp3": {
+    "file": "assets/audio-success-CYW8HOv7.mp3",
+    "src": "src/pages/NextLetters/audio-success.mp3"
+  },
+  "src/utils/images/cake.jpg": {
+    "file": "assets/cake-CeLXGrHs.jpg",
+    "src": "src/utils/images/cake.jpg"
+  },
+  "src/utils/images/cat.jpg": {
+    "file": "assets/cat-DdfKrfmZ.jpg",
+    "src": "src/utils/images/cat.jpg"
+  },
+  "src/utils/images/elephant.jpg": {
+    "file": "assets/elephant-Bz4ZRG0w.jpg",
+    "src": "src/utils/images/elephant.jpg"
+  },
+  "src/utils/images/leopard.jpg": {
+    "file": "assets/leopard-Ceg1hnP6.jpg",
+    "src": "src/utils/images/leopard.jpg"
+  },
+  "src/utils/images/rat.jpg": {
+    "file": "assets/rat-DKfLa8P4.jpg",
+    "src": "src/utils/images/rat.jpg"
+  }
+}
