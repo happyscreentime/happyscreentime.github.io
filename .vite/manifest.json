@@ -1,6 +1,6 @@
 {
   "index.html": {
-    "file": "assets/index-DNfNQvea.js",
+    "file": "assets/index-C8ba8aYm.js",
     "name": "index",
     "src": "index.html",
     "isEntry": true,
@@ -9,17 +9,10 @@
     ],
     "css": [
       "assets/index-C_b53Ki2.css"
-    ],
-    "assets": [
-      "assets/logo-CMxrhpIG.png"
     ]
   },
-  "src/components/Header/logo.png": {
-    "file": "assets/logo-CMxrhpIG.png",
-    "src": "src/components/Header/logo.png"
-  },
   "src/pages/NextLetters/QuestionsPage.js": {
-    "file": "assets/QuestionsPage-Br1jBnC3.js",
+    "file": "assets/QuestionsPage-C-6kpwiu.js",
     "name": "QuestionsPage",
     "src": "src/pages/NextLetters/QuestionsPage.js",
     "isDynamicEntry": true,
