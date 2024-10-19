@@ -1,6 +1,6 @@
 {
   "index.html": {
-    "file": "assets/index-BgGQO-L1.js",
+    "file": "assets/index-DjP9f76_.js",
     "name": "index",
     "src": "index.html",
     "isEntry": true,
@@ -12,7 +12,7 @@
     ]
   },
   "src/pages/NextLetters/QuestionsPage.js": {
-    "file": "assets/QuestionsPage-BGstUpgO.js",
+    "file": "assets/QuestionsPage-j-GfPLQJ.js",
     "name": "QuestionsPage",
     "src": "src/pages/NextLetters/QuestionsPage.js",
     "isDynamicEntry": true,
@@ -30,7 +30,7 @@
       "assets/rat-DKfLa8P4.jpg",
       "assets/audio-success-CYW8HOv7.mp3",
       "assets/audio-error-BLlPlQhj.mp3",
-      "assets/audio-ping-D4bk9LU9.mp3",
+      "assets/audio-ping-CwXOsw3z.mp3",
       "assets/audio-ding-CQ5mU5ww.mp3"
     ]
   },
@@ -43,7 +43,7 @@
     "src": "src/pages/NextLetters/audio/audio-error.mp3"
   },
   "src/pages/NextLetters/audio/audio-ping.mp3": {
-    "file": "assets/audio-ping-D4bk9LU9.mp3",
+    "file": "assets/audio-ping-CwXOsw3z.mp3",
     "src": "src/pages/NextLetters/audio/audio-ping.mp3"
   },
   "src/pages/NextLetters/audio/audio-success.mp3": {
