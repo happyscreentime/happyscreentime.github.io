@@ -1,6 +1,6 @@
 {
   "index.html": {
-    "file": "assets/index-DxIcMSCA.js",
+    "file": "assets/index-uxEOh3Jm.js",
     "name": "index",
     "src": "index.html",
     "isEntry": true,
@@ -8,11 +8,11 @@
       "src/pages/NextLetters/QuestionsPage.js"
     ],
     "css": [
-      "assets/index-DeNg2-yG.css"
+      "assets/index-Desktb8X.css"
     ]
   },
   "src/pages/NextLetters/QuestionsPage.js": {
-    "file": "assets/QuestionsPage-CAwwAhr0.js",
+    "file": "assets/QuestionsPage-D4-8nasz.js",
     "name": "QuestionsPage",
     "src": "src/pages/NextLetters/QuestionsPage.js",
     "isDynamicEntry": true,
@@ -20,7 +20,7 @@
       "index.html"
     ],
     "css": [
-      "assets/QuestionsPage-BT-ZKced.css"
+      "assets/QuestionsPage-CFSQgGhE.css"
     ],
     "assets": [
       "assets/cat-DdfKrfmZ.jpg",
@@ -29,16 +29,26 @@
       "assets/leopard-Ceg1hnP6.jpg",
       "assets/rat-DKfLa8P4.jpg",
       "assets/audio-success-CYW8HOv7.mp3",
-      "assets/audio-error-BLlPlQhj.mp3"
+      "assets/audio-error-BLlPlQhj.mp3",
+      "assets/audio-ping-D4bk9LU9.mp3",
+      "assets/audio-ding-CQ5mU5ww.mp3"
     ]
   },
-  "src/pages/NextLetters/audio-error.mp3": {
-    "file": "assets/audio-error-BLlPlQhj.mp3",
-    "src": "src/pages/NextLetters/audio-error.mp3"
+  "src/pages/NextLetters/audio/audio-ding.mp3": {
+    "file": "assets/audio-ding-CQ5mU5ww.mp3",
+    "src": "src/pages/NextLetters/audio/audio-ding.mp3"
   },
-  "src/pages/NextLetters/audio-success.mp3": {
+  "src/pages/NextLetters/audio/audio-error.mp3": {
+    "file": "assets/audio-error-BLlPlQhj.mp3",
+    "src": "src/pages/NextLetters/audio/audio-error.mp3"
+  },
+  "src/pages/NextLetters/audio/audio-ping.mp3": {
+    "file": "assets/audio-ping-D4bk9LU9.mp3",
+    "src": "src/pages/NextLetters/audio/audio-ping.mp3"
+  },
+  "src/pages/NextLetters/audio/audio-success.mp3": {
     "file": "assets/audio-success-CYW8HOv7.mp3",
-    "src": "src/pages/NextLetters/audio-success.mp3"
+    "src": "src/pages/NextLetters/audio/audio-success.mp3"
   },
   "src/utils/images/cake.jpg": {
     "file": "assets/cake-CeLXGrHs.jpg",
