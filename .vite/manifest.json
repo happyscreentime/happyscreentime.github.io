@@ -1,6 +1,6 @@
 {
   "index.html": {
-    "file": "assets/index-DjP9f76_.js",
+    "file": "assets/index-l60Ab_OM.js",
     "name": "index",
     "src": "index.html",
     "isEntry": true,
@@ -12,7 +12,7 @@
     ]
   },
   "src/pages/NextLetters/QuestionsPage.js": {
-    "file": "assets/QuestionsPage-j-GfPLQJ.js",
+    "file": "assets/QuestionsPage-DxobZKrC.js",
     "name": "QuestionsPage",
     "src": "src/pages/NextLetters/QuestionsPage.js",
     "isDynamicEntry": true,
@@ -20,7 +20,7 @@
       "index.html"
     ],
     "css": [
-      "assets/QuestionsPage-C5GJ1aSW.css"
+      "assets/QuestionsPage-DXwloA1j.css"
     ],
     "assets": [
       "assets/cat-DdfKrfmZ.jpg",
