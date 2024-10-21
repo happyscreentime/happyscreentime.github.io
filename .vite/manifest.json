@@ -1,26 +1,86 @@
 {
-  "index.html": {
-    "file": "assets/index-DguSBv2r.js",
-    "name": "index",
-    "src": "index.html",
-    "isEntry": true,
-    "dynamicImports": [
-      "src/pages/NextLetters/QuestionsPage.js"
+  "_feedback-service-!~{006}~.js": {
+    "file": "assets/feedback-service-DcGZ6zZ_.css",
+    "src": "_feedback-service-!~{006}~.js"
+  },
+  "_feedback-service-D3C7Eqep.js": {
+    "file": "assets/feedback-service-D3C7Eqep.js",
+    "name": "feedback-service",
+    "imports": [
+      "index.html",
+      "_index-BIGXYcU6.js"
     ],
     "css": [
-      "assets/index-Desktb8X.css"
+      "assets/feedback-service-DcGZ6zZ_.css"
     ]
   },
-  "src/pages/NextLetters/QuestionsPage.js": {
-    "file": "assets/QuestionsPage-DJW06hjL.js",
-    "name": "QuestionsPage",
-    "src": "src/pages/NextLetters/QuestionsPage.js",
-    "isDynamicEntry": true,
+  "_index-!~{005}~.js": {
+    "file": "assets/index-D_YQMT3e.css",
+    "src": "_index-!~{005}~.js"
+  },
+  "_index-BIGXYcU6.js": {
+    "file": "assets/index-BIGXYcU6.js",
+    "name": "index",
     "imports": [
       "index.html"
     ],
     "css": [
-      "assets/QuestionsPage-B7UW4677.css"
+      "assets/index-D_YQMT3e.css"
+    ]
+  },
+  "index.html": {
+    "file": "assets/index-9VaBB4tJ.js",
+    "name": "index",
+    "src": "index.html",
+    "isEntry": true,
+    "dynamicImports": [
+      "src/pages/Admin/AdminFeedback/index.js",
+      "src/pages/NextLetters/QuestionsPage.js",
+      "src/pages/ContactUs/index.js"
+    ],
+    "css": [
+      "assets/index-BV7Dlflm.css"
+    ]
+  },
+  "src/pages/Admin/AdminFeedback/index.js": {
+    "file": "assets/index-CEWbCgkH.js",
+    "name": "index",
+    "src": "src/pages/Admin/AdminFeedback/index.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html",
+      "_feedback-service-D3C7Eqep.js",
+      "_index-BIGXYcU6.js"
+    ],
+    "css": [
+      "assets/index-DGIxj7L9.css"
+    ]
+  },
+  "src/pages/ContactUs/index.js": {
+    "file": "assets/index-BVLhB0Q7.js",
+    "name": "index",
+    "src": "src/pages/ContactUs/index.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html",
+      "_feedback-service-D3C7Eqep.js",
+      "_index-BIGXYcU6.js"
+    ],
+    "css": [
+      "assets/index-DdDK_kgG.css"
+    ]
+  },
+  "src/pages/NextLetters/QuestionsPage.js": {
+    "file": "assets/QuestionsPage-B_-M-6j9.js",
+    "name": "QuestionsPage",
+    "src": "src/pages/NextLetters/QuestionsPage.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html",
+      "_index-BIGXYcU6.js"
+    ],
+    "css": [
+      "assets/QuestionsPage-Bgc6xdMe.css"
     ],
     "assets": [
       "assets/cat-DdfKrfmZ.jpg",
