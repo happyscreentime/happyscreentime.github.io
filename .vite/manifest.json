@@ -3,12 +3,12 @@
     "file": "assets/feedback-service-DcGZ6zZ_.css",
     "src": "_feedback-service-!~{006}~.js"
   },
-  "_feedback-service-D3C7Eqep.js": {
-    "file": "assets/feedback-service-D3C7Eqep.js",
+  "_feedback-service-BzOloNfa.js": {
+    "file": "assets/feedback-service-BzOloNfa.js",
     "name": "feedback-service",
     "imports": [
       "index.html",
-      "_index-BIGXYcU6.js"
+      "_index-CItng91N.js"
     ],
     "css": [
       "assets/feedback-service-DcGZ6zZ_.css"
@@ -18,8 +18,8 @@
     "file": "assets/index-D_YQMT3e.css",
     "src": "_index-!~{005}~.js"
   },
-  "_index-BIGXYcU6.js": {
-    "file": "assets/index-BIGXYcU6.js",
+  "_index-CItng91N.js": {
+    "file": "assets/index-CItng91N.js",
     "name": "index",
     "imports": [
       "index.html"
@@ -29,7 +29,7 @@
     ]
   },
   "index.html": {
-    "file": "assets/index-9VaBB4tJ.js",
+    "file": "assets/index-BQdEmdJp.js",
     "name": "index",
     "src": "index.html",
     "isEntry": true,
@@ -43,41 +43,41 @@
     ]
   },
   "src/pages/Admin/AdminFeedback/index.js": {
-    "file": "assets/index-CEWbCgkH.js",
+    "file": "assets/index-Dd5jbl4R.js",
     "name": "index",
     "src": "src/pages/Admin/AdminFeedback/index.js",
     "isDynamicEntry": true,
     "imports": [
       "index.html",
-      "_feedback-service-D3C7Eqep.js",
-      "_index-BIGXYcU6.js"
+      "_feedback-service-BzOloNfa.js",
+      "_index-CItng91N.js"
     ],
     "css": [
       "assets/index-DGIxj7L9.css"
     ]
   },
   "src/pages/ContactUs/index.js": {
-    "file": "assets/index-BVLhB0Q7.js",
+    "file": "assets/index-CU7Dks_J.js",
     "name": "index",
     "src": "src/pages/ContactUs/index.js",
     "isDynamicEntry": true,
     "imports": [
       "index.html",
-      "_feedback-service-D3C7Eqep.js",
-      "_index-BIGXYcU6.js"
+      "_feedback-service-BzOloNfa.js",
+      "_index-CItng91N.js"
     ],
     "css": [
       "assets/index-DdDK_kgG.css"
     ]
   },
   "src/pages/NextLetters/QuestionsPage.js": {
-    "file": "assets/QuestionsPage-B_-M-6j9.js",
+    "file": "assets/QuestionsPage-DhpE9prZ.js",
     "name": "QuestionsPage",
     "src": "src/pages/NextLetters/QuestionsPage.js",
     "isDynamicEntry": true,
     "imports": [
       "index.html",
-      "_index-BIGXYcU6.js"
+      "_index-CItng91N.js"
     ],
     "css": [
       "assets/QuestionsPage-Bgc6xdMe.css"
