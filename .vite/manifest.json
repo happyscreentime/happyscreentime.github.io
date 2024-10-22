@@ -3,12 +3,12 @@
     "file": "assets/feedback-service-DcGZ6zZ_.css",
     "src": "_feedback-service-!~{006}~.js"
   },
-  "_feedback-service-BESRgQI6.js": {
-    "file": "assets/feedback-service-BESRgQI6.js",
+  "_feedback-service-Bq9Bzzxx.js": {
+    "file": "assets/feedback-service-Bq9Bzzxx.js",
     "name": "feedback-service",
     "imports": [
       "index.html",
-      "_index-Cd7k65ib.js"
+      "_index-N84l5Bhj.js"
     ],
     "css": [
       "assets/feedback-service-DcGZ6zZ_.css"
@@ -18,8 +18,8 @@
     "file": "assets/index-D_YQMT3e.css",
     "src": "_index-!~{005}~.js"
   },
-  "_index-Cd7k65ib.js": {
-    "file": "assets/index-Cd7k65ib.js",
+  "_index-N84l5Bhj.js": {
+    "file": "assets/index-N84l5Bhj.js",
     "name": "index",
     "imports": [
       "index.html"
@@ -29,7 +29,7 @@
     ]
   },
   "index.html": {
-    "file": "assets/index-CcjRzf3D.js",
+    "file": "assets/index-C0O6Dz5R.js",
     "name": "index",
     "src": "index.html",
     "isEntry": true,
@@ -39,48 +39,48 @@
       "src/pages/ContactUs/index.js"
     ],
     "css": [
-      "assets/index-DgiP8wrE.css"
+      "assets/index-XEAH9fl-.css"
     ]
   },
   "src/pages/Admin/AdminFeedback/index.js": {
-    "file": "assets/index-BG_lYrJV.js",
+    "file": "assets/index-XWjZxQGQ.js",
     "name": "index",
     "src": "src/pages/Admin/AdminFeedback/index.js",
     "isDynamicEntry": true,
     "imports": [
       "index.html",
-      "_feedback-service-BESRgQI6.js",
-      "_index-Cd7k65ib.js"
+      "_feedback-service-Bq9Bzzxx.js",
+      "_index-N84l5Bhj.js"
     ],
     "css": [
       "assets/index-Cqc53-A1.css"
     ]
   },
   "src/pages/ContactUs/index.js": {
-    "file": "assets/index-Rc2R3y--.js",
+    "file": "assets/index-B12wqyp7.js",
     "name": "index",
     "src": "src/pages/ContactUs/index.js",
     "isDynamicEntry": true,
     "imports": [
       "index.html",
-      "_feedback-service-BESRgQI6.js",
-      "_index-Cd7k65ib.js"
+      "_feedback-service-Bq9Bzzxx.js",
+      "_index-N84l5Bhj.js"
     ],
     "css": [
       "assets/index-C9PHQTKU.css"
     ]
   },
   "src/pages/NextLetters/QuestionsPage.js": {
-    "file": "assets/QuestionsPage-BgdHYlCV.js",
+    "file": "assets/QuestionsPage-BFygY8ii.js",
     "name": "QuestionsPage",
     "src": "src/pages/NextLetters/QuestionsPage.js",
     "isDynamicEntry": true,
     "imports": [
       "index.html",
-      "_index-Cd7k65ib.js"
+      "_index-N84l5Bhj.js"
     ],
     "css": [
-      "assets/QuestionsPage-BO3lB4zw.css"
+      "assets/QuestionsPage-CYENaJ1D.css"
     ],
     "assets": [
       "assets/cat-DdfKrfmZ.jpg",
@@ -88,6 +88,12 @@
       "assets/elephant-Bz4ZRG0w.jpg",
       "assets/leopard-Ceg1hnP6.jpg",
       "assets/rat-DKfLa8P4.jpg",
+      "assets/dog-iMUcCBqp.jpg",
+      "assets/pig-BRs9kHKK.jpg",
+      "assets/tiger-BMPd9BkJ.jpg",
+      "assets/hen-B1IjiIdT.jpg",
+      "assets/camel-D5U4yTBV.jpg",
+      "assets/horse-DyPXv_nT.jpg",
       "assets/audio-success-CYW8HOv7.mp3",
       "assets/audio-error-BLlPlQhj.mp3",
       "assets/audio-ping-CwXOsw3z.mp3",
@@ -114,20 +120,44 @@
     "file": "assets/cake-CeLXGrHs.jpg",
     "src": "src/utils/images/cake.jpg"
   },
+  "src/utils/images/camel.jpg": {
+    "file": "assets/camel-D5U4yTBV.jpg",
+    "src": "src/utils/images/camel.jpg"
+  },
   "src/utils/images/cat.jpg": {
     "file": "assets/cat-DdfKrfmZ.jpg",
     "src": "src/utils/images/cat.jpg"
+  },
+  "src/utils/images/dog.jpg": {
+    "file": "assets/dog-iMUcCBqp.jpg",
+    "src": "src/utils/images/dog.jpg"
   },
   "src/utils/images/elephant.jpg": {
     "file": "assets/elephant-Bz4ZRG0w.jpg",
     "src": "src/utils/images/elephant.jpg"
   },
+  "src/utils/images/hen.jpg": {
+    "file": "assets/hen-B1IjiIdT.jpg",
+    "src": "src/utils/images/hen.jpg"
+  },
+  "src/utils/images/horse.jpg": {
+    "file": "assets/horse-DyPXv_nT.jpg",
+    "src": "src/utils/images/horse.jpg"
+  },
   "src/utils/images/leopard.jpg": {
     "file": "assets/leopard-Ceg1hnP6.jpg",
     "src": "src/utils/images/leopard.jpg"
   },
+  "src/utils/images/pig.jpg": {
+    "file": "assets/pig-BRs9kHKK.jpg",
+    "src": "src/utils/images/pig.jpg"
+  },
   "src/utils/images/rat.jpg": {
     "file": "assets/rat-DKfLa8P4.jpg",
     "src": "src/utils/images/rat.jpg"
+  },
+  "src/utils/images/tiger.jpg": {
+    "file": "assets/tiger-BMPd9BkJ.jpg",
+    "src": "src/utils/images/tiger.jpg"
   }
 }
