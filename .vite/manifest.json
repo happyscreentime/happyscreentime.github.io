@@ -3,12 +3,12 @@
     "file": "assets/feedback-service-DcGZ6zZ_.css",
     "src": "_feedback-service-!~{006}~.js"
   },
-  "_feedback-service-Bq9Bzzxx.js": {
-    "file": "assets/feedback-service-Bq9Bzzxx.js",
+  "_feedback-service-BnBodoXK.js": {
+    "file": "assets/feedback-service-BnBodoXK.js",
     "name": "feedback-service",
     "imports": [
       "index.html",
-      "_index-N84l5Bhj.js"
+      "_index-D-oPLuH7.js"
     ],
     "css": [
       "assets/feedback-service-DcGZ6zZ_.css"
@@ -18,8 +18,8 @@
     "file": "assets/index-D_YQMT3e.css",
     "src": "_index-!~{005}~.js"
   },
-  "_index-N84l5Bhj.js": {
-    "file": "assets/index-N84l5Bhj.js",
+  "_index-D-oPLuH7.js": {
+    "file": "assets/index-D-oPLuH7.js",
     "name": "index",
     "imports": [
       "index.html"
@@ -29,7 +29,7 @@
     ]
   },
   "index.html": {
-    "file": "assets/index-C0O6Dz5R.js",
+    "file": "assets/index-C9ckYwsn.js",
     "name": "index",
     "src": "index.html",
     "isEntry": true,
@@ -39,48 +39,48 @@
       "src/pages/ContactUs/index.js"
     ],
     "css": [
-      "assets/index-XEAH9fl-.css"
+      "assets/index-Ck4b23aJ.css"
     ]
   },
   "src/pages/Admin/AdminFeedback/index.js": {
-    "file": "assets/index-XWjZxQGQ.js",
+    "file": "assets/index-Dzam3RXU.js",
     "name": "index",
     "src": "src/pages/Admin/AdminFeedback/index.js",
     "isDynamicEntry": true,
     "imports": [
       "index.html",
-      "_feedback-service-Bq9Bzzxx.js",
-      "_index-N84l5Bhj.js"
+      "_feedback-service-BnBodoXK.js",
+      "_index-D-oPLuH7.js"
     ],
     "css": [
       "assets/index-Cqc53-A1.css"
     ]
   },
   "src/pages/ContactUs/index.js": {
-    "file": "assets/index-B12wqyp7.js",
+    "file": "assets/index-CE2rpQAI.js",
     "name": "index",
     "src": "src/pages/ContactUs/index.js",
     "isDynamicEntry": true,
     "imports": [
       "index.html",
-      "_feedback-service-Bq9Bzzxx.js",
-      "_index-N84l5Bhj.js"
+      "_feedback-service-BnBodoXK.js",
+      "_index-D-oPLuH7.js"
     ],
     "css": [
       "assets/index-C9PHQTKU.css"
     ]
   },
   "src/pages/NextLetters/QuestionsPage.js": {
-    "file": "assets/QuestionsPage-BFygY8ii.js",
+    "file": "assets/QuestionsPage-CzHKzds4.js",
     "name": "QuestionsPage",
     "src": "src/pages/NextLetters/QuestionsPage.js",
     "isDynamicEntry": true,
     "imports": [
       "index.html",
-      "_index-N84l5Bhj.js"
+      "_index-D-oPLuH7.js"
     ],
     "css": [
-      "assets/QuestionsPage-CYENaJ1D.css"
+      "assets/QuestionsPage-BKOVSsVh.css"
     ],
     "assets": [
       "assets/cat-DdfKrfmZ.jpg",
