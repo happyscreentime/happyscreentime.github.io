@@ -1,0 +1,1 @@
+import{a as s,j as e,P as a,a$ as r}from"./index-DLpLMfby.js";class i extends s.Component{render(){return e.jsxs("div",{children:[e.jsx("h1",{className:"page-title",children:"Profile"}),e.jsx(a,{title:"Profile"}),e.jsx(r,{})]})}}export{i as default};
