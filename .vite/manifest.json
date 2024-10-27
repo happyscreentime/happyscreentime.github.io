@@ -1,47 +1,47 @@
 {
-  "_feedback-service-D-LQ4Yia.js": {
-    "file": "assets/feedback-service-D-LQ4Yia.js",
+  "_feedback-service-BHshgc3i.js": {
+    "file": "assets/feedback-service-BHshgc3i.js",
     "name": "feedback-service",
     "imports": [
       "index.html"
     ]
   },
-  "_index-!~{009}~.js": {
-    "file": "assets/index-Dvuu5xwW.css",
-    "src": "_index-!~{009}~.js"
-  },
   "_index-!~{00a}~.js": {
-    "file": "assets/index-Wzs5omqJ.css",
+    "file": "assets/index-Dvuu5xwW.css",
     "src": "_index-!~{00a}~.js"
   },
-  "_index-!~{00c}~.js": {
-    "file": "assets/index-WDZoX_mj.css",
-    "src": "_index-!~{00c}~.js"
+  "_index-!~{00b}~.js": {
+    "file": "assets/index-Wzs5omqJ.css",
+    "src": "_index-!~{00b}~.js"
   },
-  "_index-BTdTb-Z9.js": {
-    "file": "assets/index-BTdTb-Z9.js",
+  "_index-!~{00d}~.js": {
+    "file": "assets/index-WDZoX_mj.css",
+    "src": "_index-!~{00d}~.js"
+  },
+  "_index-BOBr9KUz.js": {
+    "file": "assets/index-BOBr9KUz.js",
     "name": "index",
     "imports": [
       "index.html",
-      "_index-C-aX3NdJ.js"
+      "_index-Bq0kIDKw.js"
     ],
     "css": [
       "assets/index-WDZoX_mj.css"
     ]
   },
-  "_index-C-aX3NdJ.js": {
-    "file": "assets/index-C-aX3NdJ.js",
+  "_index-Bq0kIDKw.js": {
+    "file": "assets/index-Bq0kIDKw.js",
     "name": "index",
     "imports": [
       "index.html",
-      "_index-DVC0o36V.js"
+      "_index-CKGtthh-.js"
     ],
     "css": [
       "assets/index-Wzs5omqJ.css"
     ]
   },
-  "_index-DVC0o36V.js": {
-    "file": "assets/index-DVC0o36V.js",
+  "_index-CKGtthh-.js": {
+    "file": "assets/index-CKGtthh-.js",
     "name": "index",
     "imports": [
       "index.html"
@@ -51,7 +51,7 @@
     ]
   },
   "index.html": {
-    "file": "assets/index-CEFEth8S.js",
+    "file": "assets/index-CWksSG2a.js",
     "name": "index",
     "src": "index.html",
     "isEntry": true,
@@ -62,27 +62,28 @@
       "src/pages/Login/Signup/index.js",
       "src/pages/NextLetters/QuestionsPage.js",
       "src/pages/ContactUs/index.js",
-      "src/pages/Score/index.js"
+      "src/pages/Score/index.js",
+      "src/pages/PrivacyTerms/index.js"
     ],
     "css": [
-      "assets/index-C8e2LTFk.css"
+      "assets/index-BWw49N3h.css"
     ]
   },
   "src/pages/Admin/AdminFeedback/index.js": {
-    "file": "assets/index-Cg-E_6VO.js",
+    "file": "assets/index-Ct070wU2.js",
     "name": "index",
     "src": "src/pages/Admin/AdminFeedback/index.js",
     "isDynamicEntry": true,
     "imports": [
       "index.html",
-      "_index-BTdTb-Z9.js",
-      "_feedback-service-D-LQ4Yia.js",
-      "_index-C-aX3NdJ.js",
-      "_index-DVC0o36V.js"
+      "_index-BOBr9KUz.js",
+      "_feedback-service-BHshgc3i.js",
+      "_index-Bq0kIDKw.js",
+      "_index-CKGtthh-.js"
     ]
   },
   "src/pages/Admin/index.js": {
-    "file": "assets/index-DHEp_VS-.js",
+    "file": "assets/index-Dhfs8i16.js",
     "name": "index",
     "src": "src/pages/Admin/index.js",
     "isDynamicEntry": true,
@@ -94,56 +95,56 @@
     ]
   },
   "src/pages/ContactUs/index.js": {
-    "file": "assets/index-gwPh2tir.js",
+    "file": "assets/index-DzAd72BN.js",
     "name": "index",
     "src": "src/pages/ContactUs/index.js",
     "isDynamicEntry": true,
     "imports": [
       "index.html",
-      "_index-C-aX3NdJ.js",
-      "_feedback-service-D-LQ4Yia.js",
-      "_index-DVC0o36V.js"
+      "_index-Bq0kIDKw.js",
+      "_feedback-service-BHshgc3i.js",
+      "_index-CKGtthh-.js"
     ],
     "css": [
       "assets/index-CtDIBRqH.css"
     ]
   },
   "src/pages/Login/Signup/index.js": {
-    "file": "assets/index-CTrGq8LZ.js",
+    "file": "assets/index-AOOHUg0q.js",
     "name": "index",
     "src": "src/pages/Login/Signup/index.js",
     "isDynamicEntry": true,
     "imports": [
       "index.html",
-      "_index-C-aX3NdJ.js",
-      "_index-DVC0o36V.js"
+      "_index-Bq0kIDKw.js",
+      "_index-CKGtthh-.js"
     ],
     "css": [
       "assets/index-CX3kmHsn.css"
     ]
   },
   "src/pages/Login/index.js": {
-    "file": "assets/index-DWXlBc3B.js",
+    "file": "assets/index-C5Na0mEn.js",
     "name": "index",
     "src": "src/pages/Login/index.js",
     "isDynamicEntry": true,
     "imports": [
       "index.html",
-      "_index-C-aX3NdJ.js",
-      "_index-DVC0o36V.js"
+      "_index-Bq0kIDKw.js",
+      "_index-CKGtthh-.js"
     ],
     "css": [
       "assets/index-nSRqPLA_.css"
     ]
   },
   "src/pages/NextLetters/QuestionsPage.js": {
-    "file": "assets/QuestionsPage-DKcPKE7K.js",
+    "file": "assets/QuestionsPage-CAwLorRM.js",
     "name": "QuestionsPage",
     "src": "src/pages/NextLetters/QuestionsPage.js",
     "isDynamicEntry": true,
     "imports": [
       "index.html",
-      "_index-DVC0o36V.js"
+      "_index-CKGtthh-.js"
     ],
     "css": [
       "assets/QuestionsPage-BJKXds-S.css"
@@ -212,23 +213,32 @@
     "file": "assets/pizza-CokpAl8Q.jpg",
     "src": "src/pages/NextLetters/images/pizza.jpg"
   },
+  "src/pages/PrivacyTerms/index.js": {
+    "file": "assets/index-DYQ78VWH.js",
+    "name": "index",
+    "src": "src/pages/PrivacyTerms/index.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html"
+    ]
+  },
   "src/pages/Score/index.js": {
-    "file": "assets/index-Cu79CG7M.js",
+    "file": "assets/index-CqmObHMw.js",
     "name": "index",
     "src": "src/pages/Score/index.js",
     "isDynamicEntry": true,
     "imports": [
       "index.html",
-      "_index-C-aX3NdJ.js",
-      "_index-BTdTb-Z9.js",
-      "_index-DVC0o36V.js"
+      "_index-Bq0kIDKw.js",
+      "_index-BOBr9KUz.js",
+      "_index-CKGtthh-.js"
     ],
     "css": [
       "assets/index-BrethZB_.css"
     ]
   },
   "src/pages/User/Profile/index.js": {
-    "file": "assets/index-CAsloayd.js",
+    "file": "assets/index-DFfMlPEU.js",
     "name": "index",
     "src": "src/pages/User/Profile/index.js",
     "isDynamicEntry": true,
@@ -240,7 +250,7 @@
     ]
   },
   "src/pages/User/index.js": {
-    "file": "assets/index-SJSnJU_Q.js",
+    "file": "assets/index-DZpho0Rz.js",
     "name": "index",
     "src": "src/pages/User/index.js",
     "isDynamicEntry": true,
