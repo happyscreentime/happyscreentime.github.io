@@ -1,6 +1,6 @@
 {
-  "_feedback-service-BHshgc3i.js": {
-    "file": "assets/feedback-service-BHshgc3i.js",
+  "_feedback-service-bVX0887x.js": {
+    "file": "assets/feedback-service-bVX0887x.js",
     "name": "feedback-service",
     "imports": [
       "index.html"
@@ -18,30 +18,30 @@
     "file": "assets/index-WDZoX_mj.css",
     "src": "_index-!~{00d}~.js"
   },
-  "_index-BOBr9KUz.js": {
-    "file": "assets/index-BOBr9KUz.js",
+  "_index-C9nQ7pnE.js": {
+    "file": "assets/index-C9nQ7pnE.js",
     "name": "index",
     "imports": [
       "index.html",
-      "_index-Bq0kIDKw.js"
-    ],
-    "css": [
-      "assets/index-WDZoX_mj.css"
-    ]
-  },
-  "_index-Bq0kIDKw.js": {
-    "file": "assets/index-Bq0kIDKw.js",
-    "name": "index",
-    "imports": [
-      "index.html",
-      "_index-CKGtthh-.js"
+      "_index-DvYnpnPM.js"
     ],
     "css": [
       "assets/index-Wzs5omqJ.css"
     ]
   },
-  "_index-CKGtthh-.js": {
-    "file": "assets/index-CKGtthh-.js",
+  "_index-Ctkfw1lu.js": {
+    "file": "assets/index-Ctkfw1lu.js",
+    "name": "index",
+    "imports": [
+      "index.html",
+      "_index-C9nQ7pnE.js"
+    ],
+    "css": [
+      "assets/index-WDZoX_mj.css"
+    ]
+  },
+  "_index-DvYnpnPM.js": {
+    "file": "assets/index-DvYnpnPM.js",
     "name": "index",
     "imports": [
       "index.html"
@@ -51,7 +51,7 @@
     ]
   },
   "index.html": {
-    "file": "assets/index-CWksSG2a.js",
+    "file": "assets/index-BLEfRpTe.js",
     "name": "index",
     "src": "index.html",
     "isEntry": true,
@@ -66,24 +66,24 @@
       "src/pages/PrivacyTerms/index.js"
     ],
     "css": [
-      "assets/index-BWw49N3h.css"
+      "assets/index-BlbelQ8f.css"
     ]
   },
   "src/pages/Admin/AdminFeedback/index.js": {
-    "file": "assets/index-Ct070wU2.js",
+    "file": "assets/index-BMVudIZw.js",
     "name": "index",
     "src": "src/pages/Admin/AdminFeedback/index.js",
     "isDynamicEntry": true,
     "imports": [
       "index.html",
-      "_index-BOBr9KUz.js",
-      "_feedback-service-BHshgc3i.js",
-      "_index-Bq0kIDKw.js",
-      "_index-CKGtthh-.js"
+      "_index-Ctkfw1lu.js",
+      "_feedback-service-bVX0887x.js",
+      "_index-C9nQ7pnE.js",
+      "_index-DvYnpnPM.js"
     ]
   },
   "src/pages/Admin/index.js": {
-    "file": "assets/index-Dhfs8i16.js",
+    "file": "assets/index-DlzOuIQd.js",
     "name": "index",
     "src": "src/pages/Admin/index.js",
     "isDynamicEntry": true,
@@ -95,82 +95,65 @@
     ]
   },
   "src/pages/ContactUs/index.js": {
-    "file": "assets/index-DzAd72BN.js",
+    "file": "assets/index-BGEEzgXZ.js",
     "name": "index",
     "src": "src/pages/ContactUs/index.js",
     "isDynamicEntry": true,
     "imports": [
       "index.html",
-      "_index-Bq0kIDKw.js",
-      "_feedback-service-BHshgc3i.js",
-      "_index-CKGtthh-.js"
+      "_index-C9nQ7pnE.js",
+      "_feedback-service-bVX0887x.js",
+      "_index-DvYnpnPM.js"
     ],
     "css": [
       "assets/index-CtDIBRqH.css"
     ]
   },
   "src/pages/Login/Signup/index.js": {
-    "file": "assets/index-AOOHUg0q.js",
+    "file": "assets/index-DaI-pYHa.js",
     "name": "index",
     "src": "src/pages/Login/Signup/index.js",
     "isDynamicEntry": true,
     "imports": [
       "index.html",
-      "_index-Bq0kIDKw.js",
-      "_index-CKGtthh-.js"
+      "_index-C9nQ7pnE.js",
+      "_index-DvYnpnPM.js"
     ],
     "css": [
       "assets/index-CX3kmHsn.css"
     ]
   },
   "src/pages/Login/index.js": {
-    "file": "assets/index-C5Na0mEn.js",
+    "file": "assets/index-B7_1__hA.js",
     "name": "index",
     "src": "src/pages/Login/index.js",
     "isDynamicEntry": true,
     "imports": [
       "index.html",
-      "_index-Bq0kIDKw.js",
-      "_index-CKGtthh-.js"
+      "_index-C9nQ7pnE.js",
+      "_index-DvYnpnPM.js"
     ],
     "css": [
       "assets/index-nSRqPLA_.css"
     ]
   },
   "src/pages/NextLetters/QuestionsPage.js": {
-    "file": "assets/QuestionsPage-CAwLorRM.js",
+    "file": "assets/QuestionsPage-g5K4QVZV.js",
     "name": "QuestionsPage",
     "src": "src/pages/NextLetters/QuestionsPage.js",
     "isDynamicEntry": true,
     "imports": [
       "index.html",
-      "_index-CKGtthh-.js"
+      "_index-DvYnpnPM.js"
     ],
     "css": [
-      "assets/QuestionsPage-BJKXds-S.css"
+      "assets/QuestionsPage-B1l6ei5s.css"
     ],
     "assets": [
-      "assets/cat-DdfKrfmZ.jpg",
-      "assets/cake-CeLXGrHs.jpg",
-      "assets/elephant-Bz4ZRG0w.jpg",
-      "assets/leopard-Ceg1hnP6.jpg",
-      "assets/rat-DKfLa8P4.jpg",
-      "assets/dog-iMUcCBqp.jpg",
-      "assets/pig-BRs9kHKK.jpg",
-      "assets/tiger-BMPd9BkJ.jpg",
-      "assets/hen-B1IjiIdT.jpg",
-      "assets/camel-D5U4yTBV.jpg",
-      "assets/horse-DyPXv_nT.jpg",
       "assets/audio-success-CYW8HOv7.mp3",
       "assets/audio-error-BLlPlQhj.mp3",
       "assets/audio-ping-CwXOsw3z.mp3",
-      "assets/audio-ding-CQ5mU5ww.mp3",
-      "assets/chacolate-B6mMOcY1.jpg",
-      "assets/paneer-ZnvYbTpE.jpg",
-      "assets/chicken-Bx5mr7Ey.jpg",
-      "assets/pizza-CokpAl8Q.jpg",
-      "assets/burger-BJXHNb04.jpg",
-      "assets/pasta-B4mf7Ug6.jpg"
+      "assets/audio-ding-CQ5mU5ww.mp3"
     ]
   },
   "src/pages/NextLetters/audio/audio-ding.mp3": {
@@ -189,32 +172,8 @@
     "file": "assets/audio-success-CYW8HOv7.mp3",
     "src": "src/pages/NextLetters/audio/audio-success.mp3"
   },
-  "src/pages/NextLetters/images/burger.jpg": {
-    "file": "assets/burger-BJXHNb04.jpg",
-    "src": "src/pages/NextLetters/images/burger.jpg"
-  },
-  "src/pages/NextLetters/images/chacolate.jpg": {
-    "file": "assets/chacolate-B6mMOcY1.jpg",
-    "src": "src/pages/NextLetters/images/chacolate.jpg"
-  },
-  "src/pages/NextLetters/images/chicken.jpg": {
-    "file": "assets/chicken-Bx5mr7Ey.jpg",
-    "src": "src/pages/NextLetters/images/chicken.jpg"
-  },
-  "src/pages/NextLetters/images/paneer.jpg": {
-    "file": "assets/paneer-ZnvYbTpE.jpg",
-    "src": "src/pages/NextLetters/images/paneer.jpg"
-  },
-  "src/pages/NextLetters/images/pasta.jpg": {
-    "file": "assets/pasta-B4mf7Ug6.jpg",
-    "src": "src/pages/NextLetters/images/pasta.jpg"
-  },
-  "src/pages/NextLetters/images/pizza.jpg": {
-    "file": "assets/pizza-CokpAl8Q.jpg",
-    "src": "src/pages/NextLetters/images/pizza.jpg"
-  },
   "src/pages/PrivacyTerms/index.js": {
-    "file": "assets/index-DYQ78VWH.js",
+    "file": "assets/index-D9Cjxh2M.js",
     "name": "index",
     "src": "src/pages/PrivacyTerms/index.js",
     "isDynamicEntry": true,
@@ -223,22 +182,22 @@
     ]
   },
   "src/pages/Score/index.js": {
-    "file": "assets/index-CqmObHMw.js",
+    "file": "assets/index-CqtxbReG.js",
     "name": "index",
     "src": "src/pages/Score/index.js",
     "isDynamicEntry": true,
     "imports": [
       "index.html",
-      "_index-Bq0kIDKw.js",
-      "_index-BOBr9KUz.js",
-      "_index-CKGtthh-.js"
+      "_index-C9nQ7pnE.js",
+      "_index-Ctkfw1lu.js",
+      "_index-DvYnpnPM.js"
     ],
     "css": [
       "assets/index-BrethZB_.css"
     ]
   },
   "src/pages/User/Profile/index.js": {
-    "file": "assets/index-DFfMlPEU.js",
+    "file": "assets/index-CZJ5dgeV.js",
     "name": "index",
     "src": "src/pages/User/Profile/index.js",
     "isDynamicEntry": true,
@@ -250,7 +209,7 @@
     ]
   },
   "src/pages/User/index.js": {
-    "file": "assets/index-DZpho0Rz.js",
+    "file": "assets/index-BqHKMFxr.js",
     "name": "index",
     "src": "src/pages/User/index.js",
     "isDynamicEntry": true,
